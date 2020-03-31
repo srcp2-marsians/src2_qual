@@ -1,0 +1,16 @@
+<package format="2">
+  <name>marsians_core</name>
+  <version>1.0.0</version>
+  <description>
+  This package contains the relevant launch files, tools, rviz plugins, scripts
+  for SRC2
+  </description>
+  <author>Ankit Vora</author>
+  <author>Paritosh Kelkar</author>
+  <author>Sangjin Lee</author>
+  <maintainer email="ankitvora19@gmail.com">Ankit Vora</maintainer>
+  <license>BSD</license>
+  <buildtool_depend>catkin</buildtool_depend>
+
+  <exec_depend>rviz</exec_depend>
+</package>

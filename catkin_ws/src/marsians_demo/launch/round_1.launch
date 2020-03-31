@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<launch>
+<!--  <arg name="model" default="$(find fusion_description)/urdf/fusion.urdf"/> -->
+  <arg name="rvizconfig" default="$(find marsians_core)/rviz/round_1.rviz" />
+
+<!-- <param name="robot_description" textfile="$(arg model)"/> -->
+
+  <node name="rviz" pkg="rviz" type="rviz" args="-d $(arg rvizconfig)" required="true" />
+</launch>

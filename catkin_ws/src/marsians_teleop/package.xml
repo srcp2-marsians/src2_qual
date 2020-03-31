@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<package>
+  <name>marsians_teleop</name>
+  <version>0.6.2</version>
+  <description>Keyboard teleop for SRCP2 team Marsians.</description>
+
+  <maintainer email="xxx@gmail.com">xx xx</maintainer>
+
+  <license>BSD</license>
+  <author>xx xx</author>
+
+  <buildtool_depend>catkin</buildtool_depend>
+  <run_depend>geometry_msgs</run_depend>
+  <run_depend>rospy</run_depend>
+</package>

@@ -1,0 +1,4 @@
+[submodule "srcp2-competitors"]
+	path = srcp2-competitors
+	url = https://gitlab.com/scheducation/srcp2-competitors.git
+	branch = master
